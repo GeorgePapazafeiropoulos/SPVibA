@@ -1,5 +1,5 @@
 # SPVibA
-Vibration analysis of sandwich plates with artificial intelligence
+Vibration analysis of sandwich plates using artificial intelligence methods
 
 This Matlab application calculates the eigenfrequencies and loss factors of a sandwich plate containing two face layers of aluminium and a core layer of natural rubber. The user can select the boundary conditions of the plate and the cutout shape, the normalized coordinates of the position of the cutout and the normalized size of the cutout. 
 
